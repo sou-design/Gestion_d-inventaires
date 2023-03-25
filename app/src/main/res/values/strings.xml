@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">Inventory Management</string>
+    <string-array name="listCon">
+        <item>Cleaning stuffs</item>
+        <item>Food products</item>
+        <item>Office</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="listNcons">
+        <item>emeuble</item>
+        <item>electro</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="SpareLit">
+        <item>mother card</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="listRaw">
+        <item>Direct materials</item>
+        <item>Indirect materials</item>
+    </string-array>
+    <string-array name="TypeInventaire">
+        <item>Annual</item>
+        <item>permanent</item>
+        <item>rolling</item>
+    </string-array>
+    <string-array name="StatusInventaire">
+        <item>In progress..</item>
+        <item>Pending..</item>
+        <item>Validated</item>
+        <item>In validation</item>
+    </string-array>
+    <string-array name="dureeInv">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+    <string-array name="DirectRaw">
+        <item>Wood</item>
+        <item>Metals </item>
+        <item>Plastics </item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="InDirectRaw">
+        <item>Lights Bulbs</item>
+        <item>Oils </item>
+        <item>rags </item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="coins">
+        <item>Algerian dinar </item>
+
+    </string-array>
+    <string-array name="unit">
+        <item>ea</item>
+        <item>dz</item>
+        <item>kg</item>
+        <item>m</item>
+        <item>sqm</item>
+        <item>rm</item>
+        <item>pk</item>
+        <item>bx</item>
+        <item>cs</item>
+    </string-array>
+
+    <string-array name="categorie">
+        <item>Consumable</item>
+        <item>Not consumable</item>
+        <item>Spare parts</item>
+        <item>Raw materials</item>
+    </string-array>
+    <string-array name="EtatP">
+        <item>OnHand</item>
+        <item>Sold</item>
+        <item>RCV</item>
+        <item>Damaged</item>
+    </string-array>
+    <string-array name="statujur">
+        <item>EI</item>
+        <item>EIRL</item>
+        <item>EURL</item>
+        <item>SA</item>
+        <item>SELA</item>
+        <item>SARL</item>
+        <item>SCI</item>
+        <item>SASU</item>
+        <item>SELARL</item>
+        <item>SCM</item>
+    </string-array>
+    <string-array name="Secteur">
+        <item>primary activity sectors</item>
+        <item>secondary activity sectors</item>
+        <item>tertiary activity sectors</item>
+    </string-array>
+    <string-array name="size">
+        <item>PME</item>
+        <item>PMI</item>
+    </string-array>
+
+    <string name="sales_text"><b>Sales Informasion :</b> </string>
+    <string name="ONe_text"><b>Do you know someOne there? :</b></string>
+    <string name="purchasing_text"><b>Purchasing Info :</b></string>
+    <string name="Autre_text"><b>Product\'s Information :</b> </string>
+    <string name="ask_text">do you need it ?</string>
+    <string name="ask_title">ask</string>
+    <string name="negative_text">there is an error</string>
+    <string name="negative_title">error</string>
+    <string name="name_error">Please enter your last name</string>
+    <string name="prenom_error">Please enter your first name</string>
+    <string name="id_error">Please enter your id</string>
+    <string name="error_user">please enter your Username</string>
+    <string name="password_error">Please enter a password</string>
+    <string name="error_invalid_password">Please enter a minimum password of 6 characters</string>
+    <string name="error_invalid_nom">Please enter a minimum last-name of 3 characters</string>
+    <string name="error_invalid_prenom">Please enter a minimum first-name of 3 characters</string>
+    <string name="error_invalid_user">Please enter a minimum username of 3 characters</string>
+    <string name="error_invalid_id">id must be a number</string>
+    <string name="action_settings">Settings</string>
+    <string name="letters">this field must contain only letters</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="NO"><font color='#FF8500'>NO</font></string>
+    <string name="OK"><font color='#67B8CF'>NO</font></string>
+    <string name="SubCategory"><font color='#67B8CF'><b>SubCategory</b></font></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <array name="departments">
+
+        <item>Technical</item>
+
+        <item>Support</item>
+
+        <item>Research and Development</item>
+
+        <item>Marketing</item>
+
+        <item>Human Resource</item>
+
+    </array>
+    <string name="quantity">Quantity<font fgcolor="red">*</font></string>
+    <string name="amount">amount<font fgcolor="red">*</font></string>
+    <string name="name">Expense name<font fgcolor="red">*</font></string>
+    <string name="mag">Click to select a store name<font fgcolor="red">*</font></string>
+    <string name="deliv">Delivery method<font fgcolor="red">*</font></string>
+    <string name="ship">Shipment method<font fgcolor="red">*</font></string>
+    <string name="customer">Your customer name<font fgcolor="@red">*</font></string>
+    <string name="salecom">Click to select your sale order<font fgcolor="red">*</font></string>
+    <string name="type">payment type<font fgcolor="red">*</font></string>
+    <string name="purchasecom">Click to select your purchase order<font fgcolor="@red">*</font></string>
+    <string name="adpr">Click to select your product<font fgcolor="@red">*</font></string>
+    <string name="vendor">Your vendor name<font fgcolor="@red">*</font></string>
+
+
+    <array name="paymentmethods">
+
+        <item>credit card</item>
+
+        <item>check</item>
+
+        <item>wire transfer</item>
+
+        <item>cash</item>
+
+
+    </array>
+
+
+</resources>

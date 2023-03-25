@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    tools:context=".Transfers">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+            <ListView
+                android:id="@+id/lstDocSale"
+                android:stretchMode="columnWidth"
+                android:visibility="visible"
+                android:layout_marginVertical="8dp"
+                android:layout_marginTop="6dp"
+                android:layout_marginBottom="6dp"
+                android:horizontalSpacing="8dp"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                />
+                <ImageView
+                    android:id="@+id/empty"
+                    android:layout_width="match_parent"
+                    android:layout_height="300dp"
+                    android:layout_margin="20dp"
+                    android:layout_gravity="center_horizontal"
+                    android:src="@mipmap/notfound"
+                    android:visibility="gone"
+                    android:scaleType="fitXY"/>
+                <TextView
+                    android:id="@+id/emptyTxt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="No item found "
+                    android:visibility="gone"
+                    android:textSize="18sp"
+                    android:layout_gravity="center"
+                    />
+                <Button
+                    android:background="@drawable/contin"
+                    android:backgroundTint="@color/colorPrimary"
+                    android:textColor="#fff"
+                    android:id="@+id/trnsfADD"
+                    android:layout_marginTop="30dp"
+                    android:layout_width="90dp"
+                    android:layout_gravity="center"
+                    android:layout_height="40dp"
+                    android:text="add"/>
+
+            </LinearLayout>
+        </ScrollView>
+
+
+
+</RelativeLayout>
