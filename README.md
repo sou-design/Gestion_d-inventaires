@@ -1,0 +1,1 @@
+An Android application designed for inventory management purposes. It allows users to track stock levels, update item details, and streamline inventory processes conveniently from their mobile devices.
