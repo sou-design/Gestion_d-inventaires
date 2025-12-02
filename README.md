@@ -10,3 +10,14 @@ Une application Android développée en Java avec Android Studio pour gérer eff
 - Générer et gérer les factures
 - Suivre les états (statuts) des commandes et des produits
 - Standardiser les unités de mesure et les types
+
+## Structure du projet
+
+app/
+├── src/
+│   ├── main/
+│   │   ├── java/com/example/logg/   # Classes
+│   │   └── res/
+│   │       ├── layout/             # XML layout files
+│   │       ├── drawable/           # Images & icons
+│   │       └── values/             # Strings, colors, styles
