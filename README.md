@@ -12,7 +12,7 @@ Une application Android développée en Java avec Android Studio pour gérer eff
 - Standardiser les unités de mesure et les types
 
 ## Structure du projet
-
+```
 app/
 ├── src/
 │   ├── main/
@@ -20,5 +20,5 @@ app/
 │   │   └── res/
 │   │       ├── layout/             # XML layout files
 │   │       ├── drawable/           # Images & icons
-│   │       └── values/             # Strings, colors, styles
+│   │       └── values/             # Strings, colors, styles ```
 
