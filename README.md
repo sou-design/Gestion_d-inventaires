@@ -25,7 +25,7 @@ app/
 ## Diagramme de classes 
 
 
-<img width="500" height="500" alt="ClassDiagrammeF svg (2) (2) (4) (1) (5) (1)" src="https://github.com/user-attachments/assets/edb51d5a-e25b-4734-8fe6-c8e5e5921fed" />
+<img width="800" height="800" alt="ClassDiagrammeF svg (2) (2) (4) (1) (5) (1)" src="https://github.com/user-attachments/assets/edb51d5a-e25b-4734-8fe6-c8e5e5921fed" />
 
 
 ## Use Case
