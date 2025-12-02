@@ -20,5 +20,19 @@ app/
 │   │   └── res/
 │   │       ├── layout/             # XML layout files
 │   │       ├── drawable/           # Images & icons
-│   │       └── values/             # Strings, colors, styles 
+│   │       └── values/             # Strings, colors, styles
+```
+## Diagramme de classes 
+
+
+<img width="1911" height="2041" alt="ClassDiagrammeF svg (2) (2) (4) (1) (5) (1)" src="https://github.com/user-attachments/assets/edb51d5a-e25b-4734-8fe6-c8e5e5921fed" />
+
+
+## Use Case
+<img width="1516" height="1366" alt="fonction gestionnaire (1) (1) (1) (3) (2) (1)" src="https://github.com/user-attachments/assets/56e83c57-e092-4170-a2af-2ebb125691e3" />
+
+
+## Exemple diagramme de séquence
+<img width="611" height="579" alt="modifier un produit (2) (1) (1) (1) (3) (1)" src="https://github.com/user-attachments/assets/d5cb893a-74d9-487e-abee-4bb343b243bf" />
+
 
