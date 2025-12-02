@@ -25,11 +25,11 @@ app/
 ## Diagramme de classes 
 
 
-<img width="800" height="800" alt="ClassDiagrammeF svg (2) (2) (4) (1) (5) (1)" src="https://github.com/user-attachments/assets/edb51d5a-e25b-4734-8fe6-c8e5e5921fed" />
+<img width="600" height="600" alt="ClassDiagrammeF svg (2) (2) (4) (1) (5) (1)" src="https://github.com/user-attachments/assets/edb51d5a-e25b-4734-8fe6-c8e5e5921fed" />
 
 
 ## Use Case
-<img width="800" height="800" alt="fonction gestionnaire (1) (1) (1) (3) (2) (1)" src="https://github.com/user-attachments/assets/56e83c57-e092-4170-a2af-2ebb125691e3" />
+<img width="500" height="500" alt="fonction gestionnaire (1) (1) (1) (3) (2) (1)" src="https://github.com/user-attachments/assets/56e83c57-e092-4170-a2af-2ebb125691e3" />
 
 
 ## Exemple diagramme de séquence
