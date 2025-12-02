@@ -20,5 +20,5 @@ app/
 │   │   └── res/
 │   │       ├── layout/             # XML layout files
 │   │       ├── drawable/           # Images & icons
-│   │       └── values/             # Strings, colors, styles ```
+│   │       └── values/             # Strings, colors, styles 
 
