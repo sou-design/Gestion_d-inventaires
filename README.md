@@ -21,3 +21,4 @@ app/
 │   │       ├── layout/             # XML layout files
 │   │       ├── drawable/           # Images & icons
 │   │       └── values/             # Strings, colors, styles
+
